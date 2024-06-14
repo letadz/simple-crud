@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBiqpW-2SFzJF74sYSur31eZIumIUQZhJ8",
-  authDomain: "utak-firebase-crud.firebaseapp.com",
-  projectId: "utak-firebase-crud",
-  storageBucket: "utak-firebase-crud.appspot.com",
-  messagingSenderId: "736707447154",
-  appId: "1:736707447154:web:ff4753334db662e24835eb",
+  apiKey: "AIzaSyBHkZpfXP91iUCd41qvSn39uSAMcNwa66w",
+  authDomain: "simple-crud-utak.firebaseapp.com",
+  projectId: "simple-crud-utak",
+  storageBucket: "simple-crud-utak.appspot.com",
+  messagingSenderId: "1059793054224",
+  appId: "1:1059793054224:web:20b016f6aec3ee2ab7b895",
 };
 
 // Initialize Firebase
